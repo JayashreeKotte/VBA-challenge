@@ -8,7 +8,8 @@ Aim of this challenge was to put forth our VBA scripting skills to the test by a
 4. Open _**Multiple_year_stock_data.xlsm**_ with Excel, select Developer and Visual Basic
 5. Ensure the output is not present in the excel workbook
 6. Open the module, check the script, run the macro named stock_analysis and verify the results 
-7. Additionally, there is a sample data file _alphabetical_testing_moderate.xlsm_ in the _Resources_ folder to experiment with and get your desired results
+7. Additionally, there is a sample data file _alphabetical_testing.xlsx_ in the _Resources_ folder to experiment with and get your desired results
+8. Please re-save the _alphabetical_testing.xlsx_ file as a Macro Enabled Workbook to ensure VBA script works
 
 ![VBA_Stock_analysis_2018](Images/VBA_Stock_analysis_2018.png)
 
